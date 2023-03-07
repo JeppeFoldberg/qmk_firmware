@@ -2,7 +2,7 @@
  * default HHKB Layout
  */
 #include QMK_KEYBOARD_H
-#include keymap_danish.h
+#include "keymap_danish.h"
 
 #define BASE 0
 #define HHKB 1
